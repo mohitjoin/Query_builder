@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+   
+  background: #1D2025;
+  color: white;
+  font-family: 'Inter';
+  font-style: normal;
+}
+
+ 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
